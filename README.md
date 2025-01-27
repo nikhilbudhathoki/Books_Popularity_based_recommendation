@@ -1,9 +1,5 @@
 # Books_Popularity_based_recommendation
-Thanks for sharing the repo! Based on the repository URL and its name, I can see it’s focused on a **Books Popularity-based Recommendation** system. I’ll draft a detailed README in Markdown format for you.
 
-Here’s a possible structure for your project README:
-
----
 
 # 📚 Books Popularity-Based Recommendation System
 
